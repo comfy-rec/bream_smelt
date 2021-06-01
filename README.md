@@ -1,6 +1,6 @@
 # bream_smelt
 
-length, weight, clssification
+length, weight, supervised learning, clssification
 
 ## requirements
 
